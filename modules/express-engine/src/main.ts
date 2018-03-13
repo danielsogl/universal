@@ -17,7 +17,6 @@ import {
 } from '@angular/platform-server';
 
 import { FileLoader } from './file-loader';
-//  import { REQUEST, RESPONSE } from './tokens/index';
  import { REQUEST, RESPONSE } from '@nguniversal/express-engine/tokens';
 
 /**
